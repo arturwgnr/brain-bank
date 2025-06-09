@@ -1,31 +1,61 @@
-# 👋 Hey, I'm Artur
+# 🧠 Brain Bank
 
-I'm a developer forged in discipline, not just code.
+**Brain Bank** is a minimalist idea management app built with React.  
+It helps users capture, organize, and revisit raw thoughts in a clean and focused environment — like a digital vault for the mind.
 
-Currently focused on full-stack development with solid foundations in JavaScript and React. Every line of code is part of something bigger. It's not just about learning, it's about becoming a reference through consistency, long-term vision and real execution.
+## 🔍 Features
 
-## 🚀 Skills
+- ✅ Add new ideas quickly
+- 🗂️ Expand any idea to view or write a description
+- 🧹 Clean and responsive interface
+- 💾 Persistent storage with localStorage
+- 🔒 Route protection (redirects if not authenticated)
 
-- **Languages:** JavaScript, Python, Java  
-- **Frameworks & Libraries:** React, Node.js, Express  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools:** Git, GitHub, Docker, REST APIs  
+## 📸 Preview
 
-## 🔥 About Me
+![Brain Bank UI](./screenshot.png) <!-- (Substitua pelo nome real da imagem no seu repo) -->
 
-I'm not here for surface-level progress. I'm building a new chapter through real effort, consistent projects and continuous study. No shortcuts. Just structure, clarity and a relentless drive to grow.
+## 🧱 Built With
 
-## 🌱 Currently Exploring
+- React (Hooks, useState, useEffect)
+- React Router
+- CSS (custom styling, no frameworks)
+- LocalStorage API
 
-- Advanced JavaScript patterns  
-- Full-stack application flow  
-- Clean code, testing and deployment
+## 🚀 Getting Started
 
-## 💼 Projects
+1. Clone the repo  
+   
+bash
+   git clone https://github.com/seu-usuario/brain-bank.git
+   cd brain-bank
 
-New projects coming soon. Not just portfolio pieces, but proof of execution and growth.
+2. Install dependencies
+bash
+npm install
 
-## 📫 Reach Me
+3. Run the app
+bash
+npm run dev
 
-- **LinkedIn:** [Artur Wagner](https://www.linkedin.com/in/artur-wagner-016a62165/)  
-- **Email:** arturwagner99@hotmail.com
+
+4. Open in browser
+Go to http://localhost:5173
+
+
+📁 Folder Structure
+
+/src — all core logic and components
+
+/assets — images and static assets
+
+/pages — individual page components (Ideas, Tasks, Journal, etc.)
+
+/components — reusable UI pieces
+
+
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+📄 License
+This project is open source and available under the MIT License.
