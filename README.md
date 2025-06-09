@@ -26,7 +26,7 @@ It helps users capture, organize, and revisit raw thoughts in a clean and focuse
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/seu-usuario/brain-bank.git
+   git clone https://github.com/arturwgnr/brain-bank.git
    cd brain-bank
    ```
 2. Install dependencies
